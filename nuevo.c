@@ -6,8 +6,7 @@ int main()
     int i;
     printf("Ingrese su nombre\n");
     scanf("%[^\n]", nombre);
-    printf("Welcome %s\n", nombre);
-    for (i=strlen(nombre)-1; i>=0; i--){
+    for (i=strlen(nombre); i>=0; i--){
         printf(" %c", nombre[i]);
     }
 }
