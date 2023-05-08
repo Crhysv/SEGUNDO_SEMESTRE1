@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("nenenene");
+    printf("nene");
     return 0;
 }
