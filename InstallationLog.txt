@@ -1,0 +1,42 @@
+************************************* Invoked: mar. may. 16 21:56:02 2023
+[0] Arguments: c:\Users\Usuario\Downloads\msys2-x86_64-20230318.exe, -std=gnu++17, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[21] Operations sanity check succeeded.
+[41] Using metadata cache from "C:/Users/Usuario/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[41] Found 0 cached items.
+[42] Language: es-ES
+[42] Script file does not exist.
+************************************* Invoked: mar. may. 16 21:56:03 2023
+[0] Arguments: c:\Users\Usuario\Downloads\msys2-x86_64-20230318.exe, -std=gnu++17, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[12] Operations sanity check succeeded.
+[36] Using metadata cache from "C:/Users/Usuario/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[36] Found 0 cached items.
+[36] Language: es-ES
+[36] Script file does not exist.
+************************************* Invoked: mar. may. 16 21:56:03 2023
+[0] Arguments: c:\Users\Usuario\Downloads\msys2-x86_64-20230318.exe, -std=gnu++17, -Wp,-v, -E, -dM, -x, c++, nul
+[15] Operations sanity check succeeded.
+[38] Using metadata cache from "C:/Users/Usuario/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[38] Found 0 cached items.
+[38] Language: es-ES
+[38] Script file does not exist.
+************************************* Invoked: mar. may. 16 21:56:08 2023
+[0] Arguments: c:\Users\Usuario\Downloads\msys2-x86_64-20230318.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[11] Operations sanity check succeeded.
+[37] Using metadata cache from "C:/Users/Usuario/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[37] Found 0 cached items.
+[37] Language: es-ES
+[37] Script file does not exist.
+************************************* Invoked: mar. may. 16 21:56:08 2023
+[0] Arguments: c:\Users\Usuario\Downloads\msys2-x86_64-20230318.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[13] Operations sanity check succeeded.
+[34] Using metadata cache from "C:/Users/Usuario/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[34] Found 0 cached items.
+[34] Language: es-ES
+[35] Script file does not exist.
+************************************* Invoked: mar. may. 16 21:56:09 2023
+[0] Arguments: c:\Users\Usuario\Downloads\msys2-x86_64-20230318.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[12] Operations sanity check succeeded.
+[33] Using metadata cache from "C:/Users/Usuario/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[33] Found 0 cached items.
+[34] Language: es-ES
+[34] Script file does not exist.
