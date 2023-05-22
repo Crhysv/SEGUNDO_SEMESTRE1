@@ -17,6 +17,7 @@ int main(){
         }
         printf("\n");
     }
+
     printf("Diagonal principal");
     for(i=0;i<y;i++){
         for(j=0; j<x; j++){
